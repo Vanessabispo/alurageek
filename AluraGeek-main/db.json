@@ -1,0 +1,94 @@
+{
+  "Produtos": [
+    {
+      "id": "1997",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },
+    {
+      "id": "lala",
+      "nome": "Game Boy Classic",
+      "valor": "$ 60,00",
+      "imagem": "imagens/gameboy.png"
+    },
+    {
+      "id": "shua",
+      "nome": "Game Boy Classic",
+      "valor": "$ 60,00",
+      "imagem": "imagens/gameboy.png"
+    },
+    {
+      "id": "1992",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },
+    {
+      "id": "69op",
+      "nome": "Game Boy Classic",
+      "valor": "$ 60,00",
+      "imagem": "imagens/gameboy.png"
+    },
+    {
+      "id": "pap4",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },
+    {
+      "id": "fafa8",
+      "nome": "Game Boy Classic",
+      "valor": "$ 60,00",
+      "imagem": "imagens/gameboy.png"
+    },
+    {
+      "id": "679a",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },
+    {
+      "id": "909s",
+      "nome": "Game Boy Classic",
+      "valor": "$ 60,00",
+      "imagem": "imagens/gameboy.png"
+    },
+    {
+      "id": "nada9",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },   
+    {
+      "id": "xuxa",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },   
+    {
+      "id": "7psps",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },   
+    {
+      "id": "280f",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },   
+    {
+      "id": "not0",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    },   
+    {
+      "id": "xiu0",
+      "nome": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "imagens/stormtrooper.png"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" href="./imagens/carrinho.png" type="">
+
+    <title>AluraGeek</title>
+</head>
+
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho__logo" src="imagens/alurageek.png" alt="Logo AluraGeek">
+        <h1 class="titulo">AluraGeek</h1>
+    </header>
+    <main class="conteudo">
+        <section class="produtos">
+            <h1 class="titulo__produtos">Meus produtos:</h1>
+            <div class="container__produtos" data-id data-lista>
+
+            </div>
+        </section>
+        <section class="adicionar__produtos">
+            <h1 class="titulo__adicionar">Adicionar produtos:</h1>
+            <form class="formulario" data-formulario>
+                <input type="text" placeholder="Nome..." data-nome>
+                <input type="text" placeholder="Valor..." data-valor>
+                <input type="search" placeholder="Imagem..." data-imagem>
+
+                <div class="container__botoes">
+                    <input class="botao__guardar" type="submit" value="Guardar">
+                    <input class="botao__limpar" type="reset" value="Limpar">
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer class="rodape">
+        <div class="rodape__inicio">
+            <h1 class="titulo__rodape">AluraGeek</h1>
+        </div>
+        <p class="nome__rodape">Desenvolvido por Vanessa Bispo</p>
+        <p class="descricao__rodape">Alura - 2024</p>
+    </footer>
+    <script src="./js/mostrarEapagarProdutos.js" type="module"></script>
+    <script src="./js/criarProduto.js" type="module"></script>
+    <script src="./js/deleteProduto.js" type="module"></script>
+</body>
+
+</html>
